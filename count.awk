@@ -1,0 +1,1 @@
+/"1-/{w++}/"0-/{b++}/"1\/2-/{d++}END{print"total\twhite\tblack\tdraw\n"w+b+d"\t"w"\t"b"\t"d}
